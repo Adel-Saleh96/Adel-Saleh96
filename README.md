@@ -1,7 +1,7 @@
 <div align="center">
  <h1 align="center"> Hi I'm Adel Saleh </h1>
  <p> Currently working as Back-end developer using ruby on rails </p>
- <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300" alt="jokes GIF">
+ <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="500" alt="jokes GIF">
 <!--  <p align="center"><i>Random programming jokes on your README.</i></p> -->
  <p align="center"><img alt="GitHub deployments" src="https://img.shields.io/badge/-Ruby-b80000?style=flat-square&logo=ruby&logoColor=white"/>
  <img alt="GitHub deployments" src="https://img.shields.io/badge/-Rails-b80000?style=flat-square&logo=rubyonrails&logoColor=white"/>
