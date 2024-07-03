@@ -28,8 +28,8 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=AdelAbuSaleh&show_icons=true&theme=gotham" alt="AdelAbuSaleh" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AdelAbuSaleh&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=Adel-Saleh96&show_icons=true&theme=gotham" alt="Adel-Saleh96" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-Saleh96&theme=dark" width="48%" >
  
 ## Top Languages
   
