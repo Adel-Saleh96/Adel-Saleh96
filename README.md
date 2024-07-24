@@ -4,7 +4,7 @@
 - 💬 Ask me about: Ruby, Rails, PostgreSQL, Git, HTML,CSS.
 - 📫 How to reach me: <a href="mailto:adelsaleh46@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/adel-saleh%F0%9F%87%B5%F0%9F%87%B8-1078741b3/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)</a>
-<a href="https://medium.com/@Adel_Saleh"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"></a>
+
 
 ## Tech Stack
 <p>
